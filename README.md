@@ -27,6 +27,3 @@ Hi, I'm Theo Klautke, a passionate self-taught frontEnd web developer from India
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tklautke&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tklautke&layout=compact&theme=default" />
-</a>
