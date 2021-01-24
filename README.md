@@ -23,4 +23,5 @@ Hi I am Theo, a trainee software developer. I hope my Github can inspire or help
 * Build with Angular a personal portfolio website
 * Build a sample login and register API with Node.js
 * Build a Netflix watched list
-* Build food dairy
+* Build a food dairy
+* Build a password manager
