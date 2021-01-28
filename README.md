@@ -25,3 +25,4 @@ Hi I am Theo, a trainee software developer. I hope my Github can inspire or help
 * Build a Netflix watched list
 * Build a food dairy
 * Build a password manager
+* Build a QR-Code generator with Python
