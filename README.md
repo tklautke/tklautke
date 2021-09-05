@@ -3,10 +3,9 @@
 <br />
 <br />
 
-Hi I am Theo, a trainee software developer. I hope my Github can inspire or help you 🙂
+Hi I am Theo, a software developer. I hope my Github can inspire or help you 🙂
 
 - 🌱 I’m currently learning Python
-- 📘 I'm a apprentice as a software developer
 - 💬 Ask me about anything [here](https://github.com/tklautke/tklautke/issues)
 
 **Languages and Tools:**  
